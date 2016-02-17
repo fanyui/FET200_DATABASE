@@ -1,0 +1,2 @@
+void output();
+void update();
